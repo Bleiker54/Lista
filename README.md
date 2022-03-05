@@ -1,14 +1,18 @@
 #EXTM3U
 
 
-#EXTINF:-1, South Park Post Covid
-https://fvs.io/redirector?token=eXdrWEM4bFd5c3lHYkdrL2thOURMcXArazVZQ09ncURORE9ka2FHbUVuR0VSdUJ3UlF2d0FaeFB1bUtzQ0lyTkVLVGhkcmxZODM0YmFkL2FHTThBS3pkeVJ3ckRJUUtabmpabGlDZll2OVNWdGpVM3FjS0dYc2E0NldmaGE4VktTYzJmM2k0aVlMb0FqTzZvWHozTldUcGcraVM5SXp3R3F1a09zZz09Okx0R2xhWDNjNWJxSG0rdEM3dlVEYkE9PQ3Tq2
+#EXTINF:-1, tvg-name="Capitulo 1" group-title="El increíble mundo de gumbal"
+https://fvs.io/redirector?token=SXE1bDRicUNhekVtRE0xNmxMelc5ZlJxbVMzMmJwN3AvUnlqcjdiaGZHNSsvWko0VjZLN2NGcSt3UFNEaWNVWnB1RVdKek1uS1hUVFpMWlBSclNSVThjTXJqc0t1ZnRVZElta3hrS213bVBZVWhxalZjTFFOeXZoT3kzV1kwWmo6MWdEaklSZjBzUEY2alc5NkdwemsvQT09eoGBVQcit0UUkrVFUwZEJRdU9WbVdmSHpPM2ZjYlR4RjBkU2ZkUH
 
-#EXTINF:-1,tvg-name="Capitulo 1" group-title="The Owl House",The Owl House
-https://s3.zplayer.live/hls/5fxcrlx4wcnufvsa6kgu7qo447vdehaewzk4oayyl,q6usr7jlus3xlybu5aq,zyu4r7jlus65tudleda,.urlset/master.m3u8
+#EXTINF:-1, tvg-name="Capitulo 2" group-title="El increíble mundo de gumbal"
+https://fvs.io/redirector?token=bWZkM095RGNtcHlLaWozdFRtODJXeFBRQ0dDNUovRnMxQ2NaRkc5MmEva2pDQjJoc1dFbWlhT2dGRW9BNlhoL25GbXNVZmpPTzd1SlhsVWoxZXZXK2pNbTVzdTlJbG94bUVQaUVNbkQwc2FsRUpMZ2c0bjVDTi9lUWp2UlpZdG5nK0ZBODljSmFZRXdPd2VPTVluU3lmZWRmQmRBSGZaaWE3MFE6c1BhTktlWHVtOUx6NVM3d0dseDN5Zz09pW7Fk
 
-#EXTINF:-1,tvg-name="Capitulo 2" group-title="The Owl House",The Owl House
-https://s3.zplayer.live/hls/5fxcrlx4wcnufvsa6kgu7qo447vdehaewzk4oayyl,q6usr7jlus3xlybu5aqk,zyu4r7jlus65tudleda,.urlset/master.m3u8
+
+
+
+
+
+
 
 
 
